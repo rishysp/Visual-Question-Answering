@@ -56,4 +56,4 @@ Eg: This model can be used to navigate people past dynamic obstacles in an optim
 
 ## Output Folder
 
-
+https://github.com/rishysp/Visual-Question-Answering/blob/main/output.jpeg
