@@ -30,7 +30,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-<img src=[https://user-images.githubusercontent.com/72292326/162111031-b8da3bd1-2e39-4bab-9c2d-a37c25214abf.png](https://github.com/rishysp/Visual-Question-Answering/blob/main/arch.jpg) />
+<img src="https://github.com/rishysp/Visual-Question-Answering/blob/main/arch.jpg"/>
 
 In context of our problem statement, the clinicians' confidence in interpreting complex medical images could also be enhanced by a “second opinion” provided by an automated system. In addition, patients may be interested in the morphology/physiology and disease-status of anatomical structures around a lesion that has been well characterized by their healthcare providers – and they may not necessarily be willing to pay significant amounts for a separate office- or hospital visit just to address such questions. Although patients often turn to search engines (e.g. Google) to disambiguate complex terms or obtain answers to confusing aspects of a medical image, results from search engines may be nonspecific, erroneous and misleading, or overwhelming in terms of the volume of information.
 
@@ -56,4 +56,4 @@ Eg: This model can be used to navigate people past dynamic obstacles in an optim
 
 ## Output Folder
 
-https://github.com/rishysp/Visual-Question-Answering/blob/main/output.jpeg
+"https://github.com/rishysp/Visual-Question-Answering/blob/main/output.jpeg"
