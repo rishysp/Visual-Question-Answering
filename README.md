@@ -3,7 +3,7 @@
 
 <div align="center">
   <h3 align="center">Visual Question Answering</h3>
-  <img align="center" src=[https://user-images.githubusercontent.com/72292326/162111606-174b99c0-62e5-4a31-81f7-f4c6bf6e968d.png](https://www.google.com/imgres?imgurl=https%3A%2F%2Fminioec-proxy.lri.fr%2Fprod-public%2Flogos%2Fvqa_logo_70.png&imgrefurl=https%3A%2F%2Fcompetitions.codalab.org%2Fcompetitions%2F6991&tbnid=SHqja5jwNYFHYM&vet=12ahUKEwjh4dan2Mb7AhU-jdgFHQV9A_oQMygUegUIARDuAQ..i&docid=hoCewn9OjHLqfM&w=455&h=280&q=vqa&safe=active&ved=2ahUKEwjh4dan2Mb7AhU-jdgFHQV9A_oQMygUegUIARDuAQ) alt="Logo" width="100" height="100">
+  <img align="center" src= "https://github.com/rishysp/Visual-Question-Answering/blob/main/logo.png" alt="Logo" width="100" height="100">
   <p align="center">
     The aim is to develop an“AI Pathologist”, where an AI agent is provided a pathology image and can give the correct response to a question that is provided by the user in that context. The questions can be related to different tasks of computer vision such as image classification - is the image provided of a white blood cell or a red blood cell? Or object detection - where is increased fibrosis? For developing this AI agent we will be using the PathVQA and VQA-RAD dataset.
   </p>
